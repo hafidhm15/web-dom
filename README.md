@@ -1,6 +1,6 @@
 # AntiCovid
 ### This is a simple layout display with the concept of DOM manipulation and event listeners
-**Teknologi: **
+Teknologi: 
 - 1.HTML
 - 2.CSS
 - 3.JavaScript
