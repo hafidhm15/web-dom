@@ -1,4 +1,4 @@
-# This is a simple layout display the concept of DOM manipulation and event listeners
+# This is a simple layout display with the concept of DOM manipulation and event listeners
 Teknologi:
 1.HTML
 2.CSS
